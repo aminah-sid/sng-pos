@@ -1,0 +1,28 @@
+SKU,Category,Item,UnitPrice
+BF-SM-01,Beef Burgers,The Shroom Melt,680
+BF-FJ-01,Beef Burgers,Fiery Jalapeño Blaze,670
+BF-CC-01,Beef Burgers,Classic Cheeseburger,550
+BF-CI-01,Beef Burgers,Chipotle Inferno,670
+BF-PF-01,Beef Burgers,Pepperoni Firecracker,690
+BF-BM-TRI,BM Special,BM Special (Triple Smash Tower),1250
+CK-SM-01,Chicken Burgers,Smashed Chicken,670
+CK-ZG-01,Chicken Burgers,Zesty Grilled Chicken,670
+HD-NYC-CK,Hot Dogs,NYC Chicken Dog,550
+HD-FR-BF,Hot Dogs,Original Frankfurter (Beef),580
+SD-FR-REG,Sides,Fries,120
+SD-FR-GOU,Sides,Gourmet Fries,380
+SD-PT-EXC,Sides,Extra Patty with Cheese,230
+DR-ML-LMN,Drinks,Lemon Malt,100
+DR-ML-PCH,Drinks,Peach Malt,100
+DR-ML-LYC,Drinks,Lychee Malt,100
+DR-ML-APL,Drinks,Apple Malt,100
+DR-RANI-01,Drinks,Rani Juice,200
+DR-SFT-01,Drinks,Soft Drink,100
+DR-DIET-01,Drinks,Diet/Zero Sugar,100
+DR-WTR-01,Drinks,Mineral Water,80
+DP-GAR-01,Dips,Garlic Mayo,80
+DP-CHP-01,Dips,Chipotle,80
+DP-JAL-01,Dips,Jalapeño Dip,80
+DP-BBQ-01,Dips,BBQ,80
+DP-HLK-01,Dips,Hulk,80
+DP-RNC-01,Dips,Ranch,80
